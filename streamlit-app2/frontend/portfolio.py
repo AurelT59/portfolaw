@@ -5,7 +5,7 @@ import pandas as pd
 
 with st.container(border=True, height="content"):
     st.header("""
-    Actions on portfolio
+    Stocks on portfolio
     """)
 
     with st.container(height="content"):

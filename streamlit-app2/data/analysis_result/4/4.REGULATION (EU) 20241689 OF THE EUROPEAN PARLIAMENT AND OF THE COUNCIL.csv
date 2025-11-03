@@ -1,0 +1,51 @@
+﻿name,ticker,sentiment_score,_match_key,reglementary_score,dependance_score,recommandation
+Nvidia,NVDA,0.6125499999999999,symbol,High,High,"NVIDIA's core GPU and AI products could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. NVIDIA has significant revenue exposure to AI and data center applications that could be impacted by the regulation. Its supply chain and key markets like China also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products. Diversify into less AI-intensive applications like gaming and professional visualization."
+Microsoft,MSFT,0.625,symbol,High,High,"Microsoft's AI products and cloud services like Azure AI could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. Microsoft has significant revenue exposure to AI and cloud services that could be impacted by the regulation. Its enterprise customer base and markets like the EU also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Microsoft's robust AI ethics principles and responsible AI initiatives."
+"Apple Inc,",AAPL,0.605,symbol,Moderate,Low,"While Apple's core hardware products may not be directly impacted, its AI and machine learning capabilities integrated into products like Siri could face regulatory requirements under Articles 6 and 8-15 if classified as high-risk. Apple's revenue exposure to AI is currently limited compared to its hardware and services businesses. However, its supply chain in China faces regulatory risks. Monitor regulatory developments and ensure compliance for any high-risk AI components. Leverage Apple's strong privacy and ethical AI principles. Diversify supply chain to mitigate China exposure."
+Amazon,AMZN,0.57675,symbol,High,High,"Amazon's AI and machine learning capabilities across its e-commerce, advertising, and AWS cloud services could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. Amazon has significant revenue exposure to AI-driven services like product recommendations, advertising, and AWS that could be impacted by the regulation. Its markets like the EU also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Amazon's AI ethics principles and responsible AI initiatives."
+Meta Platforms,META,0.6255625,symbol,High,High,"Meta's AI and machine learning capabilities across its social media platforms, advertising, and metaverse initiatives could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. Meta has significant revenue exposure to AI-driven advertising and content moderation that could be impacted by the regulation. Its markets like the EU also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Meta's AI ethics principles and responsible AI initiatives."
+Broadcom,AVGO,0.4947125,symbol,Moderate,Low,"While Broadcom's core semiconductor and software products may not be directly impacted, any AI capabilities integrated into their offerings could face regulatory requirements under Articles 6 and 8-15 if classified as high-risk. Broadcom's revenue exposure to AI is currently limited. However, its products enable AI applications in other industries that could be impacted by the regulation. Monitor regulatory developments and ensure compliance for any high-risk AI components. Explore opportunities in enabling technologies like semiconductors and software that could benefit from increased demand for compliant AI systems."
+"Alphabet Inc, (Class A)",GOOGL,0.6249875,symbol,High,High,"Alphabet's AI and machine learning capabilities across its search, advertising, cloud, and other products could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. Alphabet has significant revenue exposure to AI-driven services like search, advertising, and cloud that could be impacted by the regulation. Its markets like the EU also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Alphabet's AI ethics principles and responsible AI initiatives."
+"Alphabet Inc, (Class C)",GOOG,0.625,symbol,High,High,"Alphabet's AI and machine learning capabilities across its search, advertising, cloud, and other products could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Certain AI practices like manipulative techniques (Article 5) may also be restricted. Alphabet has significant revenue exposure to AI-driven services like search, advertising, and cloud that could be impacted by the regulation. Its markets like the EU also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Alphabet's AI ethics principles and responsible AI initiatives."
+"Tesla, Inc,",TSLA,0.625,symbol,High,High,"Tesla's AI capabilities for autonomous driving and other automotive applications could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. Tesla has significant exposure to AI-driven autonomous driving technology, which is a core part of its product strategy and competitive advantage. Its markets like China also face regulatory risks. Closely monitor regulatory developments and engage with policymakers. Invest in compliance capabilities for high-risk AI products and services. Leverage Tesla's AI safety principles and responsible AI initiatives."
+Berkshire Hathaway,"BRK,B",0.625,symbol,,,
+JPMorgan Chase,JPM,0.624675,symbol,Moderate,Moderate,"JPMorgan's AI capabilities in areas like fraud detection, risk management, and customer service could be classified as high-risk under Articles 6 and 8-15, requiring conformity assessments, risk management, data governance, and human oversight controls. While JPMorgan's core financial services may not be heavily AI-driven currently, the increasing adoption of AI in areas like risk management, customer service, and decision-making could expose the bank to regulatory risks. Monitor regulatory developments and ensure compliance for any high-risk AI applications. Leverage JPMorgan's existing risk management and governance frameworks to address AI risks. Explore opportunities in AI-enabled financial services and products."
+Walmart,WMT,0.6501625,symbol,,,
+Oracle Corporation,ORCL,0.6250625,symbol,,,
+"Visa Inc,",V,0.625,symbol,,,
+Lilly (Eli),LLY,0.625,symbol,,,
+Mastercard,MA,0.625,symbol,,,
+Netflix,NFLX,0.625,symbol,,,
+ExxonMobil,XOM,0.6221625,symbol,,,
+Costco,COST,0.625,symbol,,,
+Palantir Technologies,PLTR,0.62135,symbol,,,
+Johnson & Johnson,JNJ,0.5819625,symbol,,,
+Home Depot (The),HD,0.5869,symbol,,,
+AbbVie,ABBV,0.625,symbol,,,
+Procter & Gamble,PG,0.625,symbol,,,
+Bank of America,BAC,0.3314875,symbol,,,
+Chevron Corporation,CVX,0.625,symbol,,,
+Coca-Cola Company (The),KO,0.625,symbol,,,
+Advanced Micro Devices,AMD,0.624825,symbol,,,
+GE Aerospace,GE,0.0082625,symbol,,,
+T-Mobile US,TMUS,0.625,symbol,,,
+Cisco,CSCO,0.625,symbol,,,
+Philip Morris International,PM,0.625,symbol,,,
+Wells Fargo,WFC,0.625,symbol,,,
+UnitedHealth Group,UNH,0.6361125,symbol,,,
+Morgan Stanley,MS,0.4072,symbol,,,
+Goldman Sachs,GS,0.625,symbol,,,
+Abbott Laboratories,ABT,0.625,symbol,,,
+Linde plc,LIN,0.625,symbol,,,
+Salesforce,CRM,0.625,symbol,,,
+IBM,IBM,0.625,symbol,,,
+McDonald's,MCD,0.625,symbol,,,
+American Express,AXP,0.625,symbol,,,
+Walt Disney Company (The),DIS,0.625,symbol,,,
+RTX Corporation,RTX,0.625,symbol,,,
+"Merck & Co,",MRK,0.6251625000000001,symbol,,,
+AT&T,T,0.625,symbol,,,
+PepsiCo,PEP,0.3762375,symbol,,,
+Intuit,INTU,0.625,symbol,,,
+"Caterpillar Inc,",CAT,0.625,symbol,,,
+Uber,UBER,0.625,symbol,,,

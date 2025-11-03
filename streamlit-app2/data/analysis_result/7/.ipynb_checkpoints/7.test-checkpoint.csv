@@ -1,0 +1,51 @@
+name,ticker,sentiment_score
+Nvidia,NVDA,0.6125499999999999
+Microsoft,MSFT,0.625
+"Apple Inc,",AAPL,0.48796249999999997
+Amazon,AMZN,0.57675
+Meta Platforms,META,0.5395875
+Broadcom,AVGO,0.4947125
+"Alphabet Inc, (Class A)",GOOGL,0.6249875
+"Alphabet Inc, (Class C)",GOOG,0.6249875
+"Tesla, Inc,",TSLA,0.625
+Berkshire Hathaway,"BRK,B",0.625
+JPMorgan Chase,JPM,0.624675
+Walmart,WMT,0.625
+Oracle Corporation,ORCL,0.6250625
+"Visa Inc,",V,0.625
+Lilly (Eli),LLY,0.625
+Mastercard,MA,0.38175000000000003
+Netflix,NFLX,0.625
+ExxonMobil,XOM,0.625
+Costco,COST,0.625
+Palantir Technologies,PLTR,0.62135
+Johnson & Johnson,JNJ,0.47175
+Home Depot (The),HD,0.5869
+AbbVie,ABBV,0.625
+Procter & Gamble,PG,0.625
+Bank of America,BAC,0.026612499999999983
+Chevron Corporation,CVX,0.625
+Coca-Cola Company (The),KO,0.026612499999999983
+Advanced Micro Devices,AMD,0.624825
+GE Aerospace,GE,0.008262500000000006
+T-Mobile US,TMUS,0.625
+Cisco,CSCO,0.625
+Philip Morris International,PM,0.625
+Wells Fargo,WFC,0.625
+UnitedHealth Group,UNH,0.6361125
+Morgan Stanley,MS,0.4072
+Goldman Sachs,GS,0.625
+Abbott Laboratories,ABT,0.625
+Linde plc,LIN,0.625
+Salesforce,CRM,0.20196250000000004
+IBM,IBM,0.625
+McDonald's,MCD,0.625
+American Express,AXP,0.370925
+Walt Disney Company (The),DIS,0.625
+RTX Corporation,RTX,0.657825
+"Merck & Co,",MRK,0.6251625000000001
+AT&T,T,0.56945
+PepsiCo,PEP,0.3762375
+Intuit,INTU,0.625
+"Caterpillar Inc,",CAT,0.20196250000000004
+Uber,UBER,0.625

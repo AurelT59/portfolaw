@@ -29,7 +29,7 @@ with st.container(border=True, height="content"):
         with st.spinner("🔄 Processing ..."):
             # appel analyse backend
             time.sleep(5)
-            result = process_file()
+            result = process_file(uploaded_file)
         st.success("✅ Analysis completed")
 
     if result is not None:
